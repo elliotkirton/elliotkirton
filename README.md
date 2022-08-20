@@ -12,5 +12,5 @@ Hey 👋, I'm Elliot
            **🚧  projects will arrive soon 🚧 **
 
 
-🗨️ Always looking for feedback & comments on my projects. Let me know what you think via my email
+🗨️ Always looking for feedback & comments on my projects. Let me know what you think via my email (//)
 
