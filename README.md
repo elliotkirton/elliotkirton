@@ -8,7 +8,7 @@
 - ⚡ Fun fact: ...
 
 
-⚡ Developing for fun on @roblox with @lua ⚡
+# ⚡ Developing for fun on @roblox with @lua ⚡
 
 # Current Projects
 
