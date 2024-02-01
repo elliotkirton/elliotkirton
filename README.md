@@ -1,15 +1,7 @@
-Hey 👋, I'm Elliot
+Hey 👋
 
-💻 I'm a @lua programmer currently doing projects both big and small on @roblox. Always looking for new challenges so currently learning how to code @python and have already created a few small projects with it. Hoping to expand my knowledge even further so learning C & C++ too.
+💻 I'm a @lua programmer with 3+ years of experience coding & programming on @roblox. I'm now starting to create bots on @discord using @python.
 
-🤖 Here are some of my @lua based projects
-
-            **🚧  projects will arrive soon 🚧 **
-            
-            
-💽 More projects, but this time in @python
-
-           **🚧  projects will arrive soon 🚧 **
 
 
 
